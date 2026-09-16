@@ -130,3 +130,15 @@ body {
     transform: none !important;
   }
 }
+
+.audio-player {
+  width: 100%;
+  max-width: 1103px;
+  margin: 20px auto 0;
+}
+
+.audio-player iframe {
+  display: block;
+  width: 100%;
+  border: 0;
+}
